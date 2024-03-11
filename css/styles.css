@@ -15,3 +15,10 @@ h1 {
 #result .red {
   color: #e74c3c;
 }
+
+document{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
